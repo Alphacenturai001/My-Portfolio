@@ -56,14 +56,21 @@ p {
 }
 
 .hero {
-    height: 300px;
-    width: 100%;
+    text-align: justify;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    margin-top: 5px;
+    background-color:#0073bbad
 }
-
+#avatarimg {
+    position: justify;
+    margin-bottom: 3px;
+    margin-left:5px;
+    margin-top: 5px;
+    border-style:double;
+    border-color:aqua;
+    border-width:25px;
+    background-color:#0073bbad 
+}
 .float-left {
     float: left;
     margin-right: 25px;
